@@ -1,7 +1,7 @@
 # Image Processing of Rubik's Cube in MATLAB
 
-This program detects the colors of different images of Rubik's Cube (one side of cube in the image).
-The colors are put into a 3x3 result matrix at the end of the program (one matrix element for one color). 
+This program detects the colors in different images of Rubik's Cube (one side of cube in the image).
+The colors are put into a 3x3 result matrix at the end of the program (one matrix element for one square color). 
 Each color position in the Rubik's Cube corresponds the position in the matrix.
 
 ![Screenshot from 2021-06-23 18-08-29](https://user-images.githubusercontent.com/73773493/123131511-0b79c780-d44e-11eb-9503-63fac2fd8dac.png)
